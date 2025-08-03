@@ -22,5 +22,10 @@ public class Details {
 	private void addQTY() {
 		System.out.println("Branch Swithced Successfully");
 	}
+
+	private void changeColour() {
+		System.out.println("Colour Changed Successfully");
+	}
+
 }
 
