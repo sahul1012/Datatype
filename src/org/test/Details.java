@@ -19,4 +19,8 @@ public class Details {
 	private void cashOnDelivery() {
 		System.out.println("This is Sahul-working on cash");
 	}
+	private void addQTY() {
+		System.out.println("Branch Swithced Successfully");
+	}
 }
+
